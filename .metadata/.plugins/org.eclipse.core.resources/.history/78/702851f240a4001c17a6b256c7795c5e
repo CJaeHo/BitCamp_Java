@@ -1,0 +1,14 @@
+package day0315;
+
+public class Ex02MunJe {
+
+	public static void main(String[] args) {
+
+
+//		[문제 2] Ex2Munje
+//		3개의 숫자 a,b,c 를 입력받아 가장 큰수를 출력하시오(조건 연산자 이용)
+
+
+	}
+
+}

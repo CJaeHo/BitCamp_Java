@@ -1,0 +1,69 @@
+package day0315;
+
+import java.util.Scanner;
+
+public class Ex5Scanner {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		int score;
+		String name;
+		char blood;
+		
+		System.out.print("점수 입력 : ");
+		score = sc.nextInt();
+		
+		System.out.print("이름 입력 : ");
+		name = sc.nextLine();
+		
+		System.out.print("혈액형 한글자 입력 : ");
+		blood = sc.nextLine().charAt(0);
+		
+		System.out.println();
+		System.out.println("이 름 : " + name);
+		System.out.println("점 수 : " + score);
+		System.out.println("혈액형 : " + blood);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

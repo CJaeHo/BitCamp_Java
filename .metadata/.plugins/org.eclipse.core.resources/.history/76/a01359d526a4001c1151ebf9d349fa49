@@ -1,0 +1,66 @@
+package day0315;
+
+import java.util.Scanner;
+
+public class Ex8Operator {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		int kor;	// 국어 점수 변수
+		String msg;	// 결과 메세지 변수
+		
+		// 국어 점수를 입력 후 90 이상이면 "Excellent!"라고 msg에 저장하기.
+		// 90 미만이면 "Try!!!"라고 저장하기
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

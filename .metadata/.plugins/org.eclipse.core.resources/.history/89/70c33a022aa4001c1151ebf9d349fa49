@@ -1,0 +1,68 @@
+package day0315;
+
+import java.util.Scanner;
+
+public class Ex10Operator {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int java, html, oracle;
+		
+		// 3과목의 점수를 입력받아 합계와 평균을 출력하고
+		// 과락이 없고 평균이 60점 이상이면 "합격"
+		// 그렇지 않으면 "불합격" 처리하시오.
+		
+		
+		
+		System.out.println("java, html, oracle의 점수를 순서대로 입력하세요 : ");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

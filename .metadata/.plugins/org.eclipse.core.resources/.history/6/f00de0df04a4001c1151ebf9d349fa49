@@ -1,0 +1,36 @@
+package day0315;
+
+public class Ex1DataType {
+
+	public static void main(String[] args) {
+		
+		// 기본형 연습
+		char ch = 'A';
+		char ch2 = '가';
+		char ch3 = 67; // == 'C'
+		char ch4 = (char) (ch3 + 2);	// 묵시적 형변환에 의해서 int타입인데 강제로 char로 변환함
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

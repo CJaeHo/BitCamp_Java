@@ -1,0 +1,63 @@
+package day0315;
+
+public class Ex6Operator {
+
+	public static void main(String[] args) {
+		
+		
+		
+		int a = 5, b = 5, x, y;
+		x = a++;
+		y = ++b;
+		
+		System.out.println(a + "," + b);
+		System.out.println(x + "," + y);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

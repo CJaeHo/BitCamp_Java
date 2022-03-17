@@ -1,0 +1,43 @@
+package day0315;
+
+public class Ex3String {
+
+	public static void main(String[] args) {
+		
+		
+		String s1 = "happy";	// String은 new선언을 안해도 됨.
+		String s2 = new String("Apple");	// 하면 이렇게.
+		System.out.println(s1);
+		System.out.println(s2);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

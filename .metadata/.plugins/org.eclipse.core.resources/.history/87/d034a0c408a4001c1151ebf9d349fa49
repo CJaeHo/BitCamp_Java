@@ -1,0 +1,24 @@
+package day0315;
+
+public class Ex2DataType {
+
+	public static void main(String[] args) {
+		
+		byte b1 = 127;	// 1byte 최대 127.
+		byte b2 = (byte)129;	// 129 - 256이기 때문에 결과 값 : -127.
+								// 혹은 2의 보수를 출력함.
+		System.out.println(b1);
+		System.out.println(b2);
+		
+		float f1 = 123.456789f;	// f를 붙이면 4byte의 float으로 선언됨.
+		double d1 = 123.45678912345678;
+		System.out.println(f1);	// 소수점 포함 8자리까지만 반올림해서 출력됨. 
+		System.out.println(d1); // 소수점 포함 15자리까지만 반올림해서 출력됨.
+		
+		boolean b = true;
+		System.out.println(b);	// true 출력함.
+		System.out.println(!b);	// false 출력함.
+		
+	}
+
+}

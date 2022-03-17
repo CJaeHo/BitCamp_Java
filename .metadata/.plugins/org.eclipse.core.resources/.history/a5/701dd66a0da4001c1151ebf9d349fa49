@@ -1,0 +1,50 @@
+package day0315;
+
+public class Ex3String {
+
+	public static void main(String[] args) {
+		
+		
+		String s1 = "Happy";	// String은 new선언을 안해도 됨.
+		String s2 = new String("Apple");	// 하면 이렇게.
+		System.out.println(s1);
+		System.out.println(s2);
+		
+		int a = 5, b = 5;
+		System.out.println(a==b);	// true 출력함.
+		System.out.println(s1==s2); // false 출력함. 당연하지만 왜? ==를 사용할 떄 클래스 타입에서는 '주소'를 비교함.
+		// 문자열에서 값이 같은지 비교하려면 equals 라는 메서드를 이용하면 됨.
+		System.out.println(s1.equals("Happy"));
+		System.out.println(s1.equals("happy"));	// 대소문자도 가림.
+		System.out.println(s1.equals(s2));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

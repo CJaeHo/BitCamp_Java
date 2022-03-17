@@ -1,0 +1,19 @@
+package day0315;
+
+public class Ex2DataType {
+
+	public static void main(String[] args) {
+		
+		byte b1 = 127;	// 1byte 최대 127.
+		byte b2 = (byte)129;	// 129 - 256이기 때문에 결과 값 : -127.
+								// 혹은 2의 보수를 출력함.
+		System.out.println(b1);
+		System.out.println(b2);
+//		byte b1 = 127;
+//		byte b1 = 127;
+//		byte b1 = 127;
+//		byte b1 = 127;
+
+	}
+
+}

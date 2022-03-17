@@ -1,0 +1,46 @@
+package day0315;
+
+import java.util.Scanner;
+
+public class Ex7Operator {
+
+	public static void main(String[] args) {
+
+
+		// 산술연산자 : +, -, *, /, %
+		// 급여를 입력 후 만원, 천원, 백원, 십원, 일원의 갯수를 구분하여 출력하시오.
+		
+		int money;
+		Scanner sc = new Scanner(System.in);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

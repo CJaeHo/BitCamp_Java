@@ -1,0 +1,62 @@
+package day0315;
+
+import java.util.Scanner;
+
+public class Ex11Ddi {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int year;	// 태어난 년도
+		String ddi;	// 띠 저장
+		// 태어난 년도를 입력하면 해당하는 띠를 출력하는 프로그램 구현하기
+		// if로 먼저 구하고 조건 연산자로도 구하기
+		// 힌트 : 서기 1년은 닭띠이다
+		
+		System.out.println("태어난 년도를 입력하세요.");
+		year = sc.nextInt();
+		
+		if (year % 12 == 1)
+			ddi = "닭띠 입니다.";
+		else if (year % 12 == 2)
+			ddi = "개띠 입니다.";
+		else if (year % 12 == 3)
+			ddi = "돼지띠 입니다.";
+		else if (year % 12 == 4)
+			ddi = "쥐띠 입니다.";
+		else if (year % 12 == 5)
+			ddi = "소띠 입니다.";
+		else if (year % 12 == 6)
+			ddi = "호랑이띠 입니다.";
+		else if (year % 12 == 7)
+			ddi = "토끼띠 입니다.";
+		else if (year % 12 == 8)
+			ddi = "용띠 입니다.";
+		else if (year % 12 == 9)
+			ddi = "뱀띠 입니다.";
+		else if (year % 12 == 10)
+			ddi = "말띠 입니다.";
+		else if (year % 12 == 11)
+			ddi = "양띠 입니다.";
+		else
+			ddi = "원숭이띠 입니다.";
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
